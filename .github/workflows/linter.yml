@@ -18,7 +18,7 @@ jobs:
         - name: set up python
           uses: actions/setup-python@v5
           with:
-            python-version: '3.14'
+            python-version: '3.14':
       # this steps will install the linting tool
         - name: Install Linter
           run: pip install ruff
