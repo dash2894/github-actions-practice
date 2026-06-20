@@ -7,4 +7,4 @@ if(value==value[::-1]):
     print("\t{} is Palindrome".format(value))
 else:
     print("\t{} is Not Palindrome".format(value))
-print("Program Execution Completed")
+print("Program Execution Completed Successfully")
