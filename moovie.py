@@ -4,4 +4,4 @@ if(tkt.lower()=="yes"):
     print("\tEnter into threater")
     print("\tEnjoy the moveiee")
     print("\tUnderstand the Message")
-print("Goto Home and Read Python Notes")
+print("Goto Home and Read Python")
