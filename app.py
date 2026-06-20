@@ -1,4 +1,4 @@
-# linting practice
+# linting practice code
 # TWS devops zero to hero uddan batch
 from flask import Flask, render_template
 app = Flask(__name__)
