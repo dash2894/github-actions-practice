@@ -1,4 +1,5 @@
 # Taking user input
+# This is for practice
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 c = float(input("Enter third number: "))
