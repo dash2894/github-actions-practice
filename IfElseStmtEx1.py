@@ -1,5 +1,6 @@
 #program for reading a Word and
-# decide whether It is Palidrome or not by using simple if statement
+# decide whether It is Palidrome or not 
+# using simple if statement
 #IfElseStmtEx1.py
 value=input("Enter Any Value:") # PYTHON
 if(value==value[::-1]):
