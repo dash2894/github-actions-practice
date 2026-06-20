@@ -1,5 +1,6 @@
 # What is the goal of your workflow
-# Goal: whenever a chges happen in any python file linter will check format, syntax, indentation is correct or not
+# Goal: whenever a chges happen in any python file 
+# linter will check format, syntax, indentation is correct or not
 
 name: Auto Linter
 on:
@@ -19,4 +20,3 @@ jobs:
       # this step will run the linter
       - name: Check the files for linting
         run: ruff check .
-    
